@@ -6,7 +6,7 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		HardwareTesterProxy proxy = new HardwareTesterProxy();
+		HardwareTester proxy = new HardwareTesterProxy();
 		proxy.Test();
 	}
 
