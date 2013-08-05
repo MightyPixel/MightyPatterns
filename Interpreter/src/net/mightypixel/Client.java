@@ -1,7 +1,5 @@
 package net.mightypixel;
 
-import java.beans.Expression;
-
 public class Client {
 
 	public static void main(String[] args) {
