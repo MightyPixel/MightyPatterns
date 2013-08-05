@@ -4,7 +4,6 @@ public class MeatDecorator extends SandwichDecorator {
 
 	public MeatDecorator(Sandwich sandwich) {
 		super(sandwich);
-		// TODO Auto-generated constructor stub
 	}
 
 	public void getEaten() {

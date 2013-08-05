@@ -9,6 +9,7 @@ public class Test {
 		Singleton sharedInstance = Singleton.getSharedInstance();
 		Singleton s1 = Singleton.getSharedInstance();
 		
+		System.out.println("Same instance? " + (sharedInstance == s1));
 	}
 
 }

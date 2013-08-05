@@ -10,7 +10,6 @@ public class ThreeEyedMonster implements MonsterPrototype {
 	
 	@Override
 	public int getEyeCount() {
-		// TODO Auto-generated method stub
 		return 3;
 	}
 
